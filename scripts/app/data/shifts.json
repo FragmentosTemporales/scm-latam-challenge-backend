@@ -1,0 +1,65 @@
+[
+  {
+    "name": "madrugada FT",
+    "start_shift": "0:00",
+    "end_shift": "8:00",
+    "shift_type": "mañana",
+    "user_id": 1
+  },
+  {
+    "name": "morning FT",
+    "start_shift": "7:00",
+    "end_shift": "15:00",
+    "shift_type": "mañana",
+    "user_id": 1
+  },
+  {
+    "name": "tarde FT",
+    "start_shift": "11:00",
+    "end_shift": "19:00",
+    "shift_type": "tarde",
+    "user_id": 1
+  },
+  {
+    "name": "cierre FT",
+    "start_shift": "16:00",
+    "end_shift": "0:00",
+    "shift_type": "noche",
+    "user_id": 1
+  },
+  {
+    "name": "noche FT",
+    "start_shift": "14:00",
+    "end_shift": "22:00",
+    "shift_type": "noche",
+    "user_id": 1
+  },
+  {
+    "name": "mañana PT",
+    "start_shift": "8:00",
+    "end_shift": "12:00",
+    "shift_type": "mañana",
+    "user_id": 1
+  },
+  {
+    "name": "tarde 1 PT",
+    "start_shift": "12:00",
+    "end_shift": "16:00",
+    "shift_type": "tarde",
+    "user_id": 1
+  },
+  {
+    "name": "tarde 2 PT",
+    "start_shift": "14:00",
+    "end_shift": "18:00",
+    "shift_type": "tarde",
+    "user_id": 1
+  },
+  {
+    "name": "noche PT",
+    "start_shift": "18:00",
+    "end_shift": "22:00",
+    "shift_type": "noche",
+    "user_id": 1
+  }
+]
